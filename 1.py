@@ -2,9 +2,9 @@
 num = int(input("enter an integer:"))
 
 if num % 2 != 0:
-    print("num is odd") # nechetnoe
+    print("num is odd")
 else:
-    print("num is even") # chetnoe
+    print("num is even")
 
 
 
